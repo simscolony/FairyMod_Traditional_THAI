@@ -2,14 +2,11 @@
 FairyMod Traditional THAI
 แฟรรี่ ภาษาไทย
 
-![FairyMod](http://thumbs.modthesims2.com/img/1/0/0/3/7/5/2/2/MTS_Nyx-1741534-FairiesModV1.5-min.png)
+![FairyMod](https://i.imgur.com/v0KjkjO.png)
+![FairyMod](https://i.imgur.com/yeb4ARk.png)
+![FairyMod](https://i.imgur.com/ITHNoaT.png)
 
-
-THE MOD HAS BEEN FINALLY FIXED, PLEASE RE-DOWNLOAD  
-
-THE NEW PATCH BROKE THE MOD, I’LL UPDATE IT AS SOON AS POSSIBLE  
-
-CLARIFYING: To the vesrion 1.5 of the mod, you have to download only "Nyx_FairyMod V1.5.rar"
+============================================================================================
 
    FAIRIES MOD V1.5 IS OUT!  
 After a lot of work, sweat and tears, I have finally completed this update, let's see what does it add! :
