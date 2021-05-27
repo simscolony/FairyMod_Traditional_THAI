@@ -2,6 +2,11 @@
 FairyMod Traditional THAI
 แฟรรี่ ภาษาไทย
 
+| MOD   | Download|
+| ------------- | ------------- |
+ |FairyMod | [ดาวโหลด  แปลไทยพร้อมตัวเล่น](https://github.com/simscolony/FairyMod_Traditional_THAI/raw/master/MTS_Nyx_1761973_FairiesModV1.5%5BNEWUPDATE%5D.rar) |
+
+
 ![FairyMod](https://i.imgur.com/v0KjkjO.png)
 ![FairyMod](https://i.imgur.com/yeb4ARk.png)
 ![FairyMod](https://i.imgur.com/ITHNoaT.png)
